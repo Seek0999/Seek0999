@@ -1,10 +1,10 @@
 <p align="center">
-    <img height="100em" src="https://count.getloli.com/get/@nuggy?theme=gelbooru"/>
+    <img height="100em" src="https://count.getloli.com/get/@Seek0999"/>
 </p>
 
 <p align="center">
-    <a href="https://discord.com/users/411704274599542794">
-        <img src="https://discord.c99.nl/widget/theme-2/411704274599542794.png" alt="Discord"/>
+    <a href="https://discord.com/users/372786495867846656">
+        <img src="https://discord.c99.nl/widget/theme-3/372786495867846656.png" alt="Discord"/>
     </a>
     </p>
     
@@ -13,13 +13,11 @@
 <a href="https://github.com/DinoNuggyChan/">
     <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=DinoNuggyChan&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </a>
-<a href="https://github.com/DinoNuggyChan/">
-    <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoNuggyChan&layout=compact&langs_count=6&theme=dark"/>
+<a href="https://github.com/Seek0999/">
+    <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=seek0999&show_icons=true&theme=synthwave"/>
 </a>
 
 ---
-
-<img alt="gif" src="https://i.imgur.com/4TpbeWn.jpeg" align="right"/>
 
 #### Languages
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-5e79ff)
