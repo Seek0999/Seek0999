@@ -30,6 +30,7 @@
 <p align="center">
     <a href="https://steamcommunity.com/id/YourPpSmol/"><img src="https://img.shields.io/badge/-%E5%BD%A1%20Seek%20%E5%BD%A1-5e79ff?style=flat&logo=steam"/></a>
     <a href="https://www.spixx.xyz/"><img src="https://img.shields.io/badge/-Spixx.xyz-5e79ff?style=flat"/></a>
+    [![spotify](https://dev.discordprofiles.me/badge/spotify/372786495867846656)](https://dev.discordprofiles.me/openspotify/372786495867846656)
 </p>
 
 ---
