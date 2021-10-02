@@ -21,7 +21,7 @@
 - ![HTML](https://img.shields.io/badge/-HTML-5e79ff)
 - ![CSS](https://img.shields.io/badge/-CSS-5e79ff)
 - ![MYSQL](https://img.shields.io/badge/-SQL-5e79ff)
-- ![Spotify][(https://dev.discordprofiles.me/badge/spotify/372786495867846656)](https://dev.discordprofiles.me/openspotify/372786495867846656)
+- [![Spotify](https://dev.discordprofiles.me/badge/spotify/372786495867846656)](https://dev.discordprofiles.me/openspotify/372786495867846656)
 ---
 
 ### Current Projects
