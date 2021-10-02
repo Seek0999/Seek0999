@@ -9,7 +9,7 @@
     </p>
     
 ---
-
+- [![Spotify](https://dev.discordprofiles.me/badge/spotify/372786495867846656)](https://dev.discordprofiles.me/openspotify/372786495867846656)
 <a href="https://github.com/Seek0999/">
     <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=seek0999&show_icons=true&theme=synthwave"/>
 </a>
@@ -21,7 +21,6 @@
 - ![HTML](https://img.shields.io/badge/-HTML-5e79ff)
 - ![CSS](https://img.shields.io/badge/-CSS-5e79ff)
 - ![MYSQL](https://img.shields.io/badge/-SQL-5e79ff)
-- [![Spotify](https://dev.discordprofiles.me/badge/spotify/372786495867846656)](https://dev.discordprofiles.me/openspotify/372786495867846656)
 ---
 
 ### Current Projects
