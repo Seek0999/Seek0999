@@ -24,7 +24,9 @@
 ---
 
 ### Current Projects
-- ![Spixx](https://img.shields.io/badge/-Spixx-5e79ff)
+- <a href="https://spixx.xyz/">
+        <img align="center" src="https://spixx.xyz/png/SpixxLarge.png"/>
+    </a>
 ---
 
 <p align="center">
