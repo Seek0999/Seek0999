@@ -24,7 +24,7 @@
 ---
 
 ### Current Projects
-[![Discord Bots](https://top.gg/api/widget/772282554950746134.svg)](https://top.gg/bot/772282554950746134)
+- ![Spixx](https://img.shields.io/badge/-Spixx-5e79ff)
 ---
 
 <p align="center">
