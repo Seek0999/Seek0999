@@ -2,17 +2,14 @@
     <img height="100em" src="https://count.getloli.com/get/@Seek0999"/>
 </p>
 
-<p align="center">
-    <a href="https://discord.com/users/372786495867846656">
-        <img src="https://discord.c99.nl/widget/theme-3/372786495867846656.png" alt="Discord"/>
-    </a>
-    </p>
-    
----
-- <p style="font-size: 20px">Listening to</p> <a href="https://spotifything-r10poqd3w-seek.vercel.app/now-playing?open"> <img id="now-playing" src="https://spotifything-r10poqd3w-seek.vercel.app/now-playing" width="256" height="64" alt="Now Playing"> </a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/372786495867846656)](https://discord.com/users/372786495867846656)
+</br>
 <a href="https://github.com/Seek0999/">
     <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=seek0999&show_icons=true&theme=synthwave"/>
-</a>
+</a>  
+---
+- <p style="font-size: 20px">Listening to</p> <a href="https://spotifything-r10poqd3w-seek.vercel.app/now-playing?open"> <img id="now-playing" src="https://spotifything-r10poqd3w-seek.vercel.app/now-playing" width="256" height="64" alt="Now Playing"> </a>
+
 
 ---
 
