@@ -25,8 +25,8 @@
         <img align="center" src="https://spixx.xyz/png/SpixxLarge.png"/>
     </a>
 
-- <a href="https://bukai.xyz">
-        <img align="center" src="https://cdn.discordapp.com/avatars/625070893462454287/83c23c64e2049a562d5be6dc2aeb7f9c.png?size=96"/>
+- <a href="https://bukai.xyz" style="">
+        <img align="center" width="110px;" height="110px;" src="https://bukai.xyz/static/FullLogo.png"/>
     </a>
 ---
 
