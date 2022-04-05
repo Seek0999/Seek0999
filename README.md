@@ -1,36 +1,61 @@
 <p align="center">
-    <img height="100em" src="https://count.getloli.com/get/@Seek0999"/>
+<img height="100em" src="https://count.getloli.com/get/@Seek0999"/> 
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/372786495867846656)](https://discord.com/users/372786495867846656)
+<p align="center">
+<a href="https://spotifything-r10poqd3w-seek.vercel.app/now-playing?open" > 
+ <img id="profile" src="https://lanyard.cnrad.dev/api/372786495867846656" alt="Discord Profile"> 
+</a>
+    </p>
 </br>
-<a href="https://github.com/Seek0999/">
-    <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api?username=seek0999&show_icons=true&theme=synthwave"/>
-</a>  
+
+</br>
+<p align="center" style="font-size: 20px">Listening to</p> 
+</br>
+<p align="center">
+<a href="https://spotifything-r10poqd3w-seek.vercel.app/now-playing?open" > 
+ <img id="now-playing" src="https://spotifything-r10poqd3w-seek.vercel.app/now-playing" width="256" height="64" alt="Now Playing"> 
+</a>
+    </p>
+
+
+
 ---
-- <p style="font-size: 20px">Listening to</p> <a href="https://spotifything-r10poqd3w-seek.vercel.app/now-playing?open"> <img id="now-playing" src="https://spotifything-r10poqd3w-seek.vercel.app/now-playing" width="256" height="64" alt="Now Playing"> </a>
+<p align="center">
+    <b>Languages</b>
+</p>
+</br>
+ <p align="center">
+    <img id="JavaScript" src="https://img.shields.io/badge/-JavaScript-5e79ff" alt="JavaScript">
+</p>
+ <p align="center">
+    <img id="HTML" src="https://img.shields.io/badge/-HTML-5e79ff" alt="HTML">
+</p>
+ <p align="center">
+    <img id="CSS" src="https://img.shields.io/badge/-CSS-5e79ff" alt="CSS">
+</p>
+ <p align="center">
+    <img id="SQL" src="https://img.shields.io/badge/-SQL-5e79ff" alt="SQL">
+</p>
 
-
----
-
-#### Languages
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-5e79ff)
-- ![HTML](https://img.shields.io/badge/-HTML-5e79ff)
-- ![CSS](https://img.shields.io/badge/-CSS-5e79ff)
-- ![MYSQL](https://img.shields.io/badge/-SQL-5e79ff)
----
-
-### Current Projects
-- <a href="https://spixx.xyz/">
-        <img align="center" src="https://spixx.xyz/png/SpixxLarge.png"/>
-    </a>
-
-- <a href="https://bukai.xyz" style="">
-        <img align="center" width="110px;" height="110px;" src="https://bukai.xyz/static/FullLogo.png"/>
-    </a>
 ---
 
 <p align="center">
-    <a href="https://steamcommunity.com/id/YourPpSmol/"><img src="https://img.shields.io/badge/-%E5%BD%A1%20Seek%20%E5%BD%A1-5e79ff?style=flat&logo=steam"/></a>
-    <a href="https://www.spixx.xyz/"><img src="https://img.shields.io/badge/-Spixx.xyz-5e79ff?style=flat"/></a>
+    <b>Current Projects</b>
+</p>
+<p align="center">
+<a href="https://top.gg/bot/772282554950746134">
+<img src="https://img.shields.io/badge/Spixx-4%2C000%2B%20Servers-red" alt="Spixx Logo">
+</a>
+</p>
+
+---
+
+<p align="center">
+    <a href="https://steamcommunity.com/id/YourPpSmol/">
+        <img src="https://img.shields.io/badge/-%E5%BD%A1%20Seek%20%E5%BD%A1-5e79ff?style=flat&logo=steam"/>
+    </a>
+    <a href="https://www.spixx.xyz/">
+        <img src="https://img.shields.io/badge/-Spixx.xyz-5e79ff?style=flat"/>
+    </a>
 </p>
