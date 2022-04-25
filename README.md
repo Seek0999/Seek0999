@@ -10,15 +10,6 @@
 </br>
 
 </br>
-<p align="center" style="font-size: 20px">Listening to</p> 
-</br>
-<p align="center">
-<a href="https://spotifything-r10poqd3w-seek.vercel.app/now-playing?open" > 
- <img id="now-playing" src="https://spotifything-r10poqd3w-seek.vercel.app/now-playing" width="256" height="64" alt="Now Playing"> 
-</a>
-    </p>
-
-
 
 ---
 <p align="center">
