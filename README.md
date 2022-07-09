@@ -36,7 +36,7 @@
 </p>
 <p align="center">
 <a href="https://top.gg/bot/772282554950746134">
-<img src="https://img.shields.io/badge/Spixx-4%2C000%2B%20Servers-red" alt="Spixx Logo">
+<img src="https://img.shields.io/badge/Spixx-5%2C400%2B%20Servers-red" alt="Spixx Logo">
 </a>
 </p>
 
