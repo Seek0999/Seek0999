@@ -1,12 +1,6 @@
 <p align="center">
 <img height="100em" src="https://count.getloli.com/get/@Seek0999"/> 
 </p>
-
-<p align="center">
-<a href="https://spotifything-r10poqd3w-seek.vercel.app/now-playing?open" > 
- <img id="profile" src="https://lanyard.cnrad.dev/api/372786495867846656" alt="Discord Profile"> 
-</a>
-    </p>
 </br>
 
 </br>
