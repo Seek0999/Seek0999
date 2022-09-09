@@ -26,17 +26,6 @@
 ---
 
 <p align="center">
-    <b>Current Projects</b>
-</p>
-<p align="center">
-<a href="https://top.gg/bot/772282554950746134">
-<img src="https://img.shields.io/badge/Spixx-5%2C400%2B%20Servers-red" alt="Spixx Logo">
-</a>
-</p>
-
----
-
-<p align="center">
     <a href="https://steamcommunity.com/id/YourPpSmol/">
         <img src="https://img.shields.io/badge/-%E5%BD%A1%20Seek%20%E5%BD%A1-5e79ff?style=flat&logo=steam"/>
     </a>
