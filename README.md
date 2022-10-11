@@ -24,13 +24,6 @@ Profile Views<br>
     <img id="SQL" src="https://img.shields.io/badge/-SQL-5e79ff" alt="SQL">
 </p>
 
----
-
-<p align="center">
-    <a href="https://steamcommunity.com/id/YourPpSmol/">
-        <img src="https://img.shields.io/badge/-%E5%BD%A1%20Seek%20%E5%BD%A1-5e79ff?style=flat&logo=steam"/>
-    </a>
-    <a href="https://www.spixx.xyz/">
-        <img src="https://img.shields.io/badge/-Spixx.xyz-5e79ff?style=flat"/>
-    </a>
-</p>
+<div> 
+<image src="https://spotify-github-profile.vercel.app/api/view?uid=t5or6h55c5a6pd25bob0c8ygc&cover_image=true&theme=default&show_offline=false&bar_color=659e4c" alt="Spotify Status">
+</div>
