@@ -6,17 +6,6 @@
 
 <br/>
 
-```typescript
-const seek = {
-  role:   ["Backend Engineer", "Producer", "Label Owner"],
-  label:  "Polaris Records",
-  stack:  ["TypeScript", "Node.js", "PostgreSQL", "Redis", "Docker"],
-  status: "currently compiling...",
-};
-```
-
-<br/>
-
 <div align="center">
 
 ![](https://img.shields.io/badge/javascript-0d0d1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
