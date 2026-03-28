@@ -5,11 +5,10 @@
   <br><br>
 
   <img src="https://github-readme-stats.vercel.app/api?username=Seek0999&show_icons=true&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seek0999&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" height="170" />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seek0999&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seek0999&layout=compact&hide_border=true&title_color=ffffff&text_color=c9d1d9&bg_color=0d1117" height="170" />
 
   <br><br>
 
