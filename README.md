@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=160&section=header&text=Seek0999&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=160&section=header&text=Seek0999&fontSize=45&fontColor=ffffff" />
 
   <br><br>
 
@@ -9,16 +9,11 @@
 
   <br><br>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seek0999&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" />
+
+  <br><br>
+
   <img src="https://streak-stats.demolab.com?user=Seek0999&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=FFFFFF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
-
-  <br><br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Seek0999&theme=github_dark" />
-
-  <br><br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Seek0999&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seek0999&theme=github_dark" />
 
   <br><br>
 
