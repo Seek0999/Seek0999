@@ -1,38 +1,89 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=160&section=header&text=SEEK0999&fontSize=45&fontColor=ffffff" />
+```
+███████╗███████╗███████╗██╗  ██╗
+██╔════╝██╔════╝██╔════╝██║ ██╔╝
+███████╗█████╗  █████╗  █████╔╝ 
+╚════██║██╔══╝  ██╔══╝  ██╔═██╗ 
+███████║███████╗███████╗██║  ██╗
+╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<br>
+![](https://img.shields.io/badge/NEURAL_LINK-ACTIVE-00F5FF?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/ROLE-BACKEND_ENG_·_PRODUCER-7B5EA7?style=flat-square&labelColor=0d0d1a)
+![](https://img.shields.io/badge/LABEL-POLARIS_RECORDS-00F5FF?style=flat-square&labelColor=0d0d1a)
 
-# SEEK0999
+</div>
 
-Founder @ Polaris Records  
-Producer  
-Former Backend Developer  
+---
 
-<br>
+```typescript
+const seek = {
+  role:     ["Backend Engineer", "Producer", "Label Owner"],
+  label:    "Polaris Records",
+  focus:    ["APIs", "server architecture", "distributed systems"],
+  status:   "currently compiling...",
+};
+```
 
-<img src="https://img.shields.io/badge/POLARIS-RECORDS-00F0FF?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/PRODUCER-FF2BD6?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/BACKEND-FFD300?style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&labelColor=0D1117" />
+---
 
-<br><br>
+## `// IMPLANTS` — Stack
 
-<img src="https://github-readme-stats.vercel.app/api?username=Seek0999&show_icons=true&hide_border=true&title_color=00F0FF&text_color=ffffff&icon_color=FF2BD6&bg_color=0D1117" height="170" />
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seek0999&layout=compact&hide_border=true&title_color=FF2BD6&text_color=ffffff&bg_color=0D1117" height="170" />
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d1a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d1a?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-0d0d1a?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d0d1a?style=flat-square&logo=express&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d1a?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Redis](https://img.shields.io/badge/Redis-0d0d1a?style=flat-square&logo=redis&logoColor=FF4438)
+![Docker](https://img.shields.io/badge/Docker-0d0d1a?style=flat-square&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0d0d1a?style=flat-square&logo=git&logoColor=F05032)
 
-<br><br>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=Seek0999&hide_border=true&background=0D1117&ring=00F0FF&fire=FF2BD6&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
+---
 
-<br><br>
+## `// STATS` — GitHub
 
-<img src="https://komarev.com/ghpvc/?username=Seek0999&label=VIEWS&color=FF2BD6&style=for-the-badge" />
+<div align="center">
 
-<br><br>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seek0999&show_icons=true&hide_border=true&bg_color=0d0d1a&title_color=00F5FF&icon_color=7B5EA7&text_color=a0a0c8)](https://github.com/seek0999)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seek0999&layout=compact&hide_border=true&bg_color=0d0d1a&title_color=00F5FF&text_color=a0a0c8)](https://github.com/seek0999)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=seek0999&theme=dark&hide_border=true&background=0d0d1a&ring=00F5FF&fire=7B5EA7&currStreakLabel=00F5FF&sideLabels=a0a0c8&dates=a0a0c8)](https://github.com/seek0999)
+
+</div>
+
+---
+
+## `// AUDIO FEED` — Music
+
+<div align="center">
+
+[![seek on Spotify](https://img.shields.io/badge/seek-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6)
+[![polaris on Spotify](https://img.shields.io/badge/polaris-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/4DWPOsGWbW7sBHb1UuBvWs)
+
+</div>
+
+---
+
+## `// COMM CHANNELS` — Contact
+
+```
+┌─────────────────────────────────────────────┐
+│  github   →  github.com/seek0999           │
+│  mail     →  seek@polarisrecords.net        │
+│  discord  →  seek                           │
+│  label    →  polarisrecords.net             │
+│  spotify  →  seek · polaris                 │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+<sub>// seek0999 </sub>
 </div>
