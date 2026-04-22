@@ -1,6 +1,6 @@
 <div align="center">
 
-[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:0a1628,100:0d0d1a&height=200&section=header&text=SEEK&fontSize=90&fontColor=00F5FF&fontAlignY=55&desc=backend%20eng%20·%20producer%20·%20polaris%20records&descSize=14&descAlignY=78&descColor=7B5EA7&animation=fadeIn)](https://github.com/seek0999)
+[![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:0a1628,100:0d0d1a&height=200&section=header&text=SEEK&fontSize=90&fontColor=00F5FF&fontAlignY=55&desc=backend%20eng%20·%20producer&descSize=14&descAlignY=78&descColor=7B5EA7&animation=fadeIn)](https://github.com/seek0999)
 
 </div>
 
